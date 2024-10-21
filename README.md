@@ -1,7 +1,7 @@
 # Project Title: Russian Handwritten Letter Recognition
 
-### ➖ Convolutional neural network (CNN) model that can accurately recognize handwritten letters from the         Russian alphabet.
-
+#### Convolutional neural network (CNN) model that can accurately recognize handwritten letters from the Russian alphabet.
+#### Utilized the Russian Handwritten Letters dataset, which includes images of handwritten letters and their corresponding labels
 
 
 
