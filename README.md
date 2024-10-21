@@ -2,7 +2,8 @@
 
 #### ➖ Convolutional neural network (CNN) model that can accurately recognize handwritten letters from the Russian alphabet.
 #### ➖ Utilized the Russian Handwritten Letters dataset, which includes images of handwritten letters and their corresponding labels
-
+#### Tools and libraries:
+##### Python, Pandas, NumPy, OpenCV, TensorFlow/Keras, and Matplotlib for data handling, model building, and visualization.
 
 
 
